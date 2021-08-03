@@ -1,6 +1,6 @@
 import React from 'react';
 import jumboData from './fixtures/jumbo';
-import Jumbotron from './comonents/jumbotron/index';
+import Jumbotron from './components/jumbotron/index';
 
 export default function App() {
   return (
